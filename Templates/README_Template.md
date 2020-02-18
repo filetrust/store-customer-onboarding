@@ -1,4 +1,4 @@
-# product-<name>
+# product-{name}
 
 ## How to run
 
