@@ -1,4 +1,4 @@
-# This is a FAQ for <Product>  
+# This is a FAQ for {Product}  
 ###Frequently asked questions about the <Product>
 
 ## FAQ
