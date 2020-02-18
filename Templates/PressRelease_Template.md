@@ -1,5 +1,5 @@
-# <Product Name>
-## <Tagline for the Product>
+# {Product Name}
+## {Tagline for the Product}
 
 ### Summary
 - Short paragraph to summarize product function and usage
