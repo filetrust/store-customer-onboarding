@@ -14,6 +14,9 @@ Thus far we have the following templates avaliable:
 ### Please join our slack channel:
 https://slack.com/share/ITVKD1HMX/w9tcGaIuYasGTjzDRI67IFwQ/enQtOTQ3NjU5MDUxNzQ1LWQ5YTJmNDlmYzFkYjBiOGI4Zjc3YjU4MDQzMjYxNThiMTZhNmJiMTM2NTg1Y2M4M2RiODc5YTFiYjhlMjM2MTM
 
+
+
+###
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
